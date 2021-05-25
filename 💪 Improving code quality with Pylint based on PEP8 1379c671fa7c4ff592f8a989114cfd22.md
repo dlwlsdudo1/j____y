@@ -1,3 +1,4 @@
+![result](https://user-images.githubusercontent.com/83809838/119451268-03a40600-bd70-11eb-86b3-9f719b7d060e.jpg)
 # 💪 Improving code quality with Pylint based on PEP8
 
 *by. 반재광, 손유진, 이진영, 이홍주, 정일균*
@@ -38,7 +39,8 @@ makeSum(entry,sum)
 
 # 2. Pylint 분석 🔍
 
-![%F0%9F%92%AA%20Improving%20code%20quality%20with%20Pylint%20based%20on%20PEP8%201379c671fa7c4ff592f8a989114cfd22/ff.jpg](%F0%9F%92%AA%20Improving%20code%20quality%20with%20Pylint%20based%20on%20PEP8%201379c671fa7c4ff592f8a989114cfd22/ff.jpg)
+![ff](https://user-images.githubusercontent.com/83809838/119451315-11f22200-bd70-11eb-9b86-cb60ace359d8.jpg)
+
 
 - C0303 : 잘못된 공백
 - W0311 : 잘못된 들여쓰기
@@ -155,6 +157,7 @@ make_sum(entry, total)
 
 ## ✅ 개선된 코드 pylint 분석 결과
 
+![result](https://user-images.githubusercontent.com/83809838/119451289-0868ba00-bd70-11eb-8852-4ba692bf4f62.jpg)
 
 
 ## ✅ 코드 비교
