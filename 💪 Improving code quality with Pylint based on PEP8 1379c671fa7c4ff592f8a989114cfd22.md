@@ -155,11 +155,11 @@ make_sum(entry, total)
 
 ## ✅ 개선된 코드 pylint 분석 결과
 
-![%F0%9F%92%AA%20Improving%20code%20quality%20with%20Pylint%20based%20on%20PEP8%201379c671fa7c4ff592f8a989114cfd22/result.jpg](%F0%9F%92%AA%20Improving%20code%20quality%20with%20Pylint%20based%20on%20PEP8%201379c671fa7c4ff592f8a989114cfd22/result.jpg)
+
 
 ## ✅ 코드 비교
 
-![%F0%9F%92%AA%20Improving%20code%20quality%20with%20Pylint%20based%20on%20PEP8%201379c671fa7c4ff592f8a989114cfd22/Untitled.png](%F0%9F%92%AA%20Improving%20code%20quality%20with%20Pylint%20based%20on%20PEP8%201379c671fa7c4ff592f8a989114cfd22/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/83809838/119451201-f0913600-bd6f-11eb-8105-30049b023484.png)
 
 ---
 
